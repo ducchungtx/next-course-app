@@ -1,0 +1,8 @@
+Course Code
+https://github.com/Hendrixer/nextjs-course-app/tree/master
+Course Website
+https://hendrixer.github.io/nextjs-course/
+
+4. Git to start learn
+git clone https://github.com/Hendrixer/nextjs-course-app.git
+git checkout start
